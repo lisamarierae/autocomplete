@@ -17,11 +17,12 @@ The most basic form of the autocomplete will work with any regular `<select>` HT
 ```html
 <select id="government-organisation">
   <option value="" selected>Pick an option</option>
-  <option value="D2">Cabinet Office</option>
-  <option value="D1198">Department for Business, Energy &amp; Industrial Strategy</option>
-  <option value="D5">Department for Digital, Culture, Media and Sport</option>
-  <option value="D6">Department for Education</option>
-  <option value="D7">Department for Environment, Food &amp; Rural Affairs</option>
+  <option value="U42.31.25.02"  >Abdominal binders</option>
+  <option value="U42.29.31.19"  >Abdominal retractors</option>
+  <option value="U31.37.12.05"  >Abrasion resistant castable</option>
+  <option value="U41.11.46.01"  >Abrasion testers</option>
+  <option value="U31.19.15.07"  >Abrasive belts</option>
+  <option value="U31.19.15.21"  >Abrasive brush</option>
 </select>
 ```
 
@@ -35,58 +36,29 @@ govukGovernmentOrganisationsAutocomplete({
 
 ## Additional data and abbreviations
 
-Additional data and abbreviations are not used at it is not believed at this point that these will be a feature of the Redwood autocomplete.
+<b>Additional data and abbreviations are not used at it is not believed at this point that these will be a feature of the Redwood autocomplete.</b>
 
-You can further improve the usability of the autocomplete by allowing users to select government organisations by their common abbreviation (such as DfE) or alternative/previous names (such as _Department for Communities and Local Government_ instead of _Ministry of Housing, Communities and Local Government_).
+You can further improve the usability of the autocomplete by allowing users to select codes by their common abbreviation or alternative/previous names.
 
 To do this, add the additional values as data attributes, as below:
 
 ```html
 <select id="government-organisation">
   <option value="" selected>Pick an option</option>
-  <option value="D2" data-abbreviations="CO">
-    Cabinet Office
+  <option value="D2" data-abbreviations="AB">
+    Abdominal binders
   </option>
-  <option value="D1198" data-abbreviations="BEIS">
-    Department for Business, Energy &amp; Industrial Strategy
+  <option value="D1198" data-abbreviations="AR">
+    Abdominal retractors
   </option>
-  <option value="D5" data-abbreviations="DCMS"
-    data-other-names="Department for Culture, Media & Sport|Department for Digital, Culture Media & Sport">
-    Department for Digital, Culture, Media and Sport
-  </option>
-  <option value="D6" data-abbreviations="DfE">
-    Department for Education
-  </option>
-  <option value="D7" data-abbreviations="Defra"
-    data-other-names="Department for Environment Food & Rural Affairs">
-    Department for Environment, Food &amp; Rural Affairs
+  <option value="D5" data-abbreviations="ARC"
+    data-other-names="Freds Castables|Ermintrudes Castables">
+    Abrasion resistant castable
   </option>
 </select>
 ```
 
 (Note that these attribute names are plural, as they can take multiple values separated by a `|` character.)
-
-If your list of organisations is long, you can group them using the `<optgroup>` element. This improves accessibility for non-javascript users:
-
-```html
-<select id="government-organisation">
-  <optgroup label="Ministerial Departments">
-    <option value="" selected>Pick an option</option>
-    <option value="D2">Cabinet Office</option>
-    <option value="D1198">Department for Business, Energy &amp; Industrial Strategy</option>
-    <option value="D5">Department for Digital, Culture, Media and Sport</option>
-    <option value="D6">Department for Education</option>
-    <option value="D7">Department for Environment, Food &amp; Rural Affairs</option>
-  </optgroup>
-  <optgroup label="Non-ministerial departments">
-    <option value="D550">Competition and Markets Authority</option>
-    <option value="D101">Crown Prosecution Service</option>
-    <option value="D102">Food Standards Agency</option>
-    <option value="D85">Forestry Commission</option>
-    <option value="D103">Government Actuary's Department</option>
-  </optgroup>
-</select>
-```
 
 ### Styling
 
