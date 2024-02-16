@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Procurement codes autocomplete</title>
+    <link rel="stylesheet" href="vendor/accessible-autocomplete.css" />
+    <script type="text/javascript" src="vendor/accessible-autocomplete.js"></script>
+    <script type="text/javascript" src="../src/govuk_government_organisations_autocomplete.js"></script>
+    <style>
+      html {
+        color: #111;
+        background: #FFF;
+        font-family: -apple-system, BlinkMacSystemFont, 'avenir next', avenir, 'helvetica neue', helvetica, ubuntu, roboto, noto, 'segoe ui', arial, sans-serif;
+        font-size: 16px;
+        line-height: 1.5;
+      }
+
+      body {
+        padding-left: 1rem;
+        padding-right: 1rem;
+      }
+
+      h1, h2, h3, h4, h5, h6 {
+        line-height: normal;
+      }
+
+      label {
+        display: block;
+        font-weight: bold;
+        margin-bottom: .5rem;
+      }
+
+      code {
+        padding-left: .5em;
+        padding-right: .5em;
+        background: #EFEFEF;
+        font-weight: normal;
+        font-family: monospace;
+      }
+
+      main {
+        max-width: 35em;
+        margin-left: auto;
+        margin-right: auto;
+      }
+
+      .autocomplete-wrapper {
+        max-width: 20em;
+        margin-bottom: 4rem;
+      }
+
+      button {
+        background-color: green;
+        color: white;
+        border-width: 0 0 2px 0;
+        border-color: black;
+        font-weight: inherit;
+        font-size: inherit;
+        line-height: 2;
+        font-family: inherit;
+        margin: 0;
+        padding: 0 1em;
+        cursor: pointer;
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <h1>Procurement codes demo</h1>
+
+      <p>This demo shows how the existing and new procurement codes work using a vanilla autocomplete component.</p>
+
+      <p>The code is built on top of the <a href="https://github.com/alphagov/accessible-autocomplete">GDS accessible-autocomplete</a> component, with the additional features of being able to search by abbreviation or alternative names.</p>
+
+      <p><a href="old_dataset.html">Existing procurement codes</a></p>
+      <p><a href="new_dataset.html">New procurement codes</a></p>
+      <p><a href="new_dataset_extradata.html">New procurement codes (with additional category information)</a></p>
+
+    </main>
+  </body>
+</html>

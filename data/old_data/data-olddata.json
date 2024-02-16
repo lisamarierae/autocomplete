@@ -1,0 +1,3917 @@
+[
+  {
+    "current_name": "Clinical & Medical Support.Comprehensive healthcare services",
+    "category": "Comprehensive healthcare services delivered by registered healthcare professionals",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521041
+  },
+  {
+    "current_name": "Clinical & Medical Support.Comprehensive healthcare services (VAT charged)",
+    "category": "Comprehensive healthcare services delivered by commercial companies (VAT Charged)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "24-06-2019",
+    "end_date": "",
+    "key": 521041
+  },
+  {
+    "current_name": "Clinical & Medical Support.Occupational therapy services",
+    "category": "Occupational therapy services delivered by registered healthcare profesionals",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521041
+  },
+  {
+    "current_name": "Clinical & Medical Support.Opthalmic eyetest and lens",
+    "category": "Ophthalmic eyetest and lens access",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521041
+  },
+  {
+    "current_name": "Clinical & Medical Support.Psychiatric hospital services",
+    "category": "Psychiatric hospital services delivered by registered healthcare professionals",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521041
+  },
+  {
+    "current_name": "Clinical & Medical Support.Specialist healthcare services",
+    "category": "Healthcare provision specialist services delivered by registered healthcare professionals",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521041
+  },
+  {
+    "current_name": "Advertising.Advertising campaign services",
+    "category": "Services of designing, developing and implementing advertising campaigns for the HO",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521054
+  },
+  {
+    "current_name": "Advertising.Commissioning promotional items",
+    "category": "News & publicity services - commissioning promotional items (e.g. mugs, t shirts etc.)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521045
+  },
+  {
+    "current_name": "Advertising.Digital publicity services",
+    "category": "Digital publicity services e.g. video wall services (excluding purchase of goods)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521055
+  },
+  {
+    "current_name": "Advertising.Media Placement & fulfillment servies",
+    "category": "Media placement & fulfillment - Placement of adverts in newspapers, websites etc.",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521051
+  },
+  {
+    "current_name": "Advertising.Other News & Publicity services",
+    "category": "News & publicity services - 'Other' news & publicity services not listed elsewhere",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521045
+  },
+  {
+    "current_name": "Advertising.Other advertising related purchases",
+    "category": "Advertising - 'Other' advertising purchases not listed elsewhere",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521045
+  },
+  {
+    "current_name": "Advertising.Press release services",
+    "category": "Press release services - fully outsourced press release services",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521051
+  },
+  {
+    "current_name": "Advertising.Print advertising slots (e.g. newspapers)",
+    "category": "Print advertising - Print advertising slots (i.e. placing adverts in newspapers, magazines etc.)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521045
+  },
+  {
+    "current_name": "Advertising.Public Relations services on behalf of HO",
+    "category": "Dealing with the media for HO - E.g. services of a contractor to deal with media queries for the HO",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521056
+  },
+  {
+    "current_name": "Advertising.Publicity services recharged to 3rd parties",
+    "category": "News & publicity recharge - Only for costs recharged (with VAT charged) onto third party (inc. OGDs)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521049
+  },
+  {
+    "current_name": "Communication Services.Aerial photography services for HO",
+    "category": "Aerial photography services for HO use",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 591007
+  },
+  {
+    "current_name": "Communication Services.Airwaves services for HO",
+    "category": "Airwave Encrypted Radio Broadcasting services for HO use",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521129
+  },
+  {
+    "current_name": "Communication Services.Broadcast monitoring services",
+    "category": "Broadasting monitoring services (including recording of broadcasts and social media monitoring)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521048
+  },
+  {
+    "current_name": "Communication Services.ESMCP services for 3rd parties",
+    "category": "Purchases for ESMCP services provided and charged to third parties outside of the HO legal entity",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521118
+  },
+  {
+    "current_name": "Communication Services.ESMCP services for HO internal",
+    "category": "Purchases for ESMCP services used by internal HO parties (e.g. HMPO, Border Force)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521129
+  },
+  {
+    "current_name": "Communication Services.Filming, AV & production services",
+    "category": "Filming, audio-visual and production services fully outsourced",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521055
+  },
+  {
+    "current_name": "Communication Services.Photographic services",
+    "category": "Photographic services including hire of photographers",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521055
+  },
+  {
+    "current_name": "Communication Services.Print & photo supplies purchases",
+    "category": "Purchase of Print, Photo & Audio Visual Supplies",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521105
+  },
+  {
+    "current_name": "Communication Services.Radio svcs recharged to 3rd parties",
+    "category": "Airwaves recharge - Only for costs recharged (with VAT charged) onto third parties (inc. OGDs).",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521129
+  },
+  {
+    "current_name": "Communication Services.Radio systems purchases",
+    "category": "Purchase of Small scale radio systems",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521129
+  },
+  {
+    "current_name": "Communication Services.Rado bandwidth/broadcasting services",
+    "category": "Radio bandwidth/broadcasting services including webcasting services HO use",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521129
+  },
+  {
+    "current_name": "Communication Services.Services recharged to 3rd parties",
+    "category": "Aerial photography recharge Only for costs recharged (with VAT charged) to third parties (inc. OGDs)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 591007
+  },
+  {
+    "current_name": "Communication Services.Television services",
+    "category": "Television services",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521055
+  },
+  {
+    "current_name": "Promotion.Attending trade shows & exhibits in UK",
+    "category": "Attending trade shows & exhibits UK supplier",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521049
+  },
+  {
+    "current_name": "Promotion.Conference services recharged to 3rd parties (with light refreshments tea/ coffee)",
+    "category": "Conference recharge - Only where costs are recharged (with VAT charged) to third party (inc. OGDs).",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521036
+  },
+  {
+    "current_name": "Promotion.Conference services recharged to 3rd parties (with substantial refreshments meals/buffet and/or accommodation) - 12.5 VAT (Not to use from 1.4.22 unless the event took place prior to this date)",
+    "category": "Conference recharge - Only where costs are recharged (with Reduced 12.5% VAT) to third party (inc. OGDs) (Not to use from 1.4.22 unless the event took place prior to this date).",
+    "other_names": "",
+    "format": "other",
+    "start_date": "01-10-2021",
+    "end_date": "",
+    "key": 521036
+  },
+  {
+    "current_name": "Promotion.Conference services recharged to 3rd parties (with substantial refreshments meals/buffet and/or accommodation) - 20 VAT",
+    "category": "Conference recharge - Only where costs are recharged (20% VAT) to third party (inc. OGDs).",
+    "other_names": "",
+    "format": "other",
+    "start_date": "19-07-2019",
+    "end_date": "",
+    "key": 521036
+  },
+  {
+    "current_name": "Promotion.Exhibitions/conference services (with light refreshments tea/ coffee)",
+    "category": "Services of delivering an entire exhibition/conference event for HO purposes",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521036
+  },
+  {
+    "current_name": "Promotion.Exhibitions/conference services (with substantial refreshments meals/buffet/ and/or accommodation) - 12.5 VAT (Not to use from 1.4.22 unless the event took place prior to this date)",
+    "category": "Services of delivering an entire exhibition/conference event for HO purposes (Not to use from 1.4.22 unless the event took place prior to this date).",
+    "other_names": "",
+    "format": "other",
+    "start_date": "01-10-2021",
+    "end_date": "",
+    "key": 521036
+  },
+  {
+    "current_name": "Promotion.Exhibitions/conference services (with substantial refreshments meals/buffet/ and/or accommodation) - 20 VAT",
+    "category": "Services of delivering an entire exhibition/conference event for HO purposes",
+    "other_names": "",
+    "format": "other",
+    "start_date": "30-03-2020",
+    "end_date": "",
+    "key": 521036
+  },
+  {
+    "current_name": "Promotion.Exhibitions/conference services outsourced - (no VAT charged)",
+    "category": "Services of delivering an entire exhibition/conference event for HO purposes - (no VAT charged)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "19-07-2019",
+    "end_date": "",
+    "key": 521036
+  },
+  {
+    "current_name": "Promotion.Hire of conference/exhibition space only",
+    "category": "Hire of conference/exhibiton space OR hire of space and catering alone",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521036
+  },
+  {
+    "current_name": "Promotion.Promotion services other",
+    "category": "Promotion - 'Other' promotion services not listed elsewhere",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521049
+  },
+  {
+    "current_name": "Promotion.Sponsorship of event/celebrity",
+    "category": "Sponsorship of event/celebrity",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521049
+  },
+  {
+    "current_name": "Signage & Exhibition Equipment.Signage purchases",
+    "category": "Signage purchases",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521049
+  },
+  {
+    "current_name": "Construction Supplies.MATERIALS ONLY structural purchases",
+    "category": "Structural MATERIALS & basic shapes (raise two PO lines splitting any labour and materials charges)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 111003
+  },
+  {
+    "current_name": "Construction supplies.Planned maintenance (rec VAT)",
+    "category": "Planned Maintenance works. Recoverable VAT.",
+    "other_names": "",
+    "format": "other",
+    "start_date": "22-05-2019",
+    "end_date": "",
+    "key": 521084
+  },
+  {
+    "current_name": "Construction supplies.Planned maintenance/improvement (non-Rec VAT)",
+    "category": "Planned Maintenance/improvement works. Non-recoverable VAT.",
+    "other_names": "",
+    "format": "other",
+    "start_date": "22-05-2019",
+    "end_date": "",
+    "key": 521084
+  },
+  {
+    "current_name": "Consultancy.Memorial Services and Wreaths (no VAT charged)",
+    "category": "Memorial Services and Wreaths (supplier NOT VAT-registered)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "05-09-2019",
+    "end_date": "",
+    "key": 521024
+  },
+  {
+    "current_name": "Consultancy.Training planning and development consultancy service",
+    "category": "Delivery based training, work package based (not quantity).",
+    "other_names": "",
+    "format": "other",
+    "start_date": "19-07-2019",
+    "end_date": "",
+    "key": 521005
+  },
+  {
+    "current_name": "Defence.Charges for police officers using arresting powers",
+    "category": "Charges for warranted police officers using arresting powers to maintain law & order",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 522110
+  },
+  {
+    "current_name": "Defence.Counter terrorism services non-VAT registered supplier",
+    "category": "Counter terrorism services, non-VAT registered supplier, no VAT charged",
+    "other_names": "",
+    "format": "other",
+    "start_date": "22-05-2019",
+    "end_date": "",
+    "key": 522110
+  },
+  {
+    "current_name": "Defence.Counter terrorism services other",
+    "category": "Counter Terrorism Services not listed elsewhere",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 522110
+  },
+  {
+    "current_name": "Defence.Curfew & Electronic Monitoring",
+    "category": "Electronic Monitoring charges to the Home Office (non-rec VAT)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "24-10-2019",
+    "end_date": "",
+    "key": 522049
+  },
+  {
+    "current_name": "Defence.Law Enforcement equipment recharged to 3rd parties",
+    "category": "LE supplies recharge - Only for costs recharged (with VAT charged) onto third parties (inc. OGDs).",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 522110
+  },
+  {
+    "current_name": "Defence.Law enforcement equipment purchases for HO",
+    "category": "Purchase of Law Enforcement Safety Equipment and supplies for HO internal use",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 522110
+  },
+  {
+    "current_name": "Defence.Museum inspection services by police (NO VAT)",
+    "category": "Payment to police for the inspection of premises for the issue of a museum firearms licence",
+    "other_names": "",
+    "format": "other",
+    "start_date": "19-07-2019",
+    "end_date": "",
+    "key": 448062
+  },
+  {
+    "current_name": "Defence.Museum inspection services by police (VAT charged)",
+    "category": "Payment to police for the inspection of premises for the issue of a museum firearms licence (VAT charged)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "17-07-2019",
+    "end_date": "",
+    "key": 448062
+  },
+  {
+    "current_name": "Defence.Public safety & control services other",
+    "category": "Public safety & control - 'Other' services not listed elsewhere",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 522110
+  },
+  {
+    "current_name": "Energy.Electric utilities for HO buildings (VAT charged)",
+    "category": "Electric utilities for HO buildings (VAT charged)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 522001
+  },
+  {
+    "current_name": "Energy.Electric utilities recharged to 3rd parties",
+    "category": "Electric utilities recharge - Only for costs recharged (with VAT charged) to third party (inc. OGDs)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 522001
+  },
+  {
+    "current_name": "Energy.Electric utility disbursements paid on behalf of HO",
+    "category": "Electricity utility disbursements where bill is paid in name of HO by supplier (no VAT charged)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 522001
+  },
+  {
+    "current_name": "Energy.Energy and fuels domestic purposes UK only (5% VAT)",
+    "category": "Energy & Fuels for domestic purposes UK buildings - 5% VAT Reduced Rated",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 522002
+  },
+  {
+    "current_name": "Energy.Marine fuel for foreign-going ships",
+    "category": "Marine fuel for foreign-going ships",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 522005
+  },
+  {
+    "current_name": "Energy.Marine fuel for ships 5% VAT",
+    "category": "Marine fuel for ships 5% VAT charged",
+    "other_names": "",
+    "format": "other",
+    "start_date": "11-03-2019",
+    "end_date": "",
+    "key": 522005
+  },
+  {
+    "current_name": "Energy.Oil & Gas disbursements paid on behalf of HO",
+    "category": "Oil & Gas utilities disbursements when bill paid in name of HO by supplier (no VAT charged)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 522002
+  },
+  {
+    "current_name": "Energy.Oil & Gas utilities HO buildings (VAT charged)",
+    "category": "Oil & gas utilities HO buildings (VAT charged)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 522002
+  },
+  {
+    "current_name": "Energy.Other energy purchases",
+    "category": "Energy & Fuels - 'Other' energy & fuel purchases not listed elsewhere",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 522002
+  },
+  {
+    "current_name": "Fuel.Petroleum & distillates supplied inside UK",
+    "category": "Petroleum & distillates (supplied inside the UK)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 522005
+  },
+  {
+    "current_name": "Fuel.Petroleum & distillates supplied outside UK",
+    "category": "Petroleum & distillates (supplied outside the UK)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 522005
+  },
+  {
+    "current_name": "Engineering Products & Equip.Equipment maintenance services",
+    "category": "Scientific Equipment repair/maintenance services - separate contract to purchase/lease of equipment",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 522064
+  },
+  {
+    "current_name": "Engineering Products & Equip.Equipment purchases/leases",
+    "category": "Fixed Asset - 'Other' lab and science equipment procurements not listed elsewhere",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 522415
+  },
+  {
+    "current_name": "Engineering Products & Equip.Equipment recharged 3rd parties",
+    "category": "Lab equip. recharge - Only for costs recharged (with VAT charged) onto third parties (inc. OGDs).",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 522064
+  },
+  {
+    "current_name": "Engineering Products & Equip.Light scattering purchases",
+    "category": "Light scattering equipment purchases",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 522415
+  },
+  {
+    "current_name": "Engineering Products & Equip.Parts and equipment HM Cutters",
+    "category": "Parts and equipment for qualifying vessels (gross tonnage over 15 tons, not designed for leisure)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 522008
+  },
+  {
+    "current_name": "Engineering Products & Equip.Weight measurement purchases",
+    "category": "Purchase of Weight measuring instruments",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 522415
+  },
+  {
+    "current_name": "Environmental Goods.Animal canned/packaged food purchases",
+    "category": "Prepared, canned and packaged pet foods and pet biscuits (20% VAT)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "11-10-2018",
+    "end_date": "",
+    "key": 522010
+  },
+  {
+    "current_name": "Environmental Goods.Animal fresh food purchases (0% VAT)",
+    "category": "Fresh, frozen or chilled meat and fish products for dogs and cats (0% VAT)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "11-10-2018",
+    "end_date": "",
+    "key": 522010
+  },
+  {
+    "current_name": "Environmental Goods.Animals goods (other) and kennelling",
+    "category": "Other animal goods (e.g. pet toys) and kennelling costs",
+    "other_names": "",
+    "format": "other",
+    "start_date": "11-10-2018",
+    "end_date": "",
+    "key": 522055
+  },
+  {
+    "current_name": "Non-Military Vehicles.Vehicle purchase",
+    "category": "Purchase of Vehicles (i.e. vans, cars etc.)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 541000
+  },
+  {
+    "current_name": "Tools.Equipment purchases  - fixed Asset",
+    "category": "Purchase of Plant & Machinery - Fixed Assets",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 115003
+  },
+  {
+    "current_name": "Tools.Equipment purchases  - fixed Asset BUS REC",
+    "category": "Purchase of Plant & Machinery - Fixed Assets BUS REC",
+    "other_names": "",
+    "format": "other",
+    "start_date": "05-09-2019",
+    "end_date": "",
+    "key": 115003
+  },
+  {
+    "current_name": "Tools.Equipment purchases <£5,000",
+    "category": "Purchase of tools & Equipment (Less than £5k)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521075
+  },
+  {
+    "current_name": "Building Operation.Buildng refurbishment works",
+    "category": "Building repair/maintenance services - refurbishment/improvement works",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521085
+  },
+  {
+    "current_name": "Building Operation.Cleaning services for HO buildings in UK",
+    "category": "Cleaning & janitorial services for HO buildings in UK (excludes supplies recharged to third parties)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521073
+  },
+  {
+    "current_name": "Building Operation.Cleaning services for Overseas buildings",
+    "category": "Cleaning & janitorial services for HO buildings Overseas",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521073
+  },
+  {
+    "current_name": "Building Operation.Cleaning supplies purchases",
+    "category": "Cleaning Equipment & Supplies (purchase of)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521073
+  },
+  {
+    "current_name": "Building Operation.FM services for HO buildings in UK",
+    "category": "Facilities Management services for HO buildings in UK (excludes supplies recharged to third parties)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521519
+  },
+  {
+    "current_name": "Building Operation.FM services for Overseas buildings",
+    "category": "Facilities Management services for HO buildings overseas",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521519
+  },
+  {
+    "current_name": "Building Operation.FM services recharged to 3rd parties",
+    "category": "Facilities Management services recharged to third parties - Only for use where costs are being recharged (with VAT charged) onto third parties (inc. OGDs).",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521519
+  },
+  {
+    "current_name": "Building Operation.Heated water supply to HO buildings",
+    "category": "Heated water supply to HO buildings",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 522003
+  },
+  {
+    "current_name": "Building Operation.Non-heated water supply to HO buildings",
+    "category": "Non-heated water supply to HO buildings",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 522003
+  },
+  {
+    "current_name": "Building Operation.Other buildings service charges",
+    "category": "Service Charges - 'Other' services charges not listed elsewhere",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521516
+  },
+  {
+    "current_name": "Building Operation.Reactive maintenance (rec VAT)",
+    "category": "Reactive maintenance services (including repair by way of replacement). Recoverable VAT.",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521083
+  },
+  {
+    "current_name": "Building Operation.Reactive maintenance/improvement work (non-rec VAT)",
+    "category": "Reactive maintenance services (including repair by way of replacement)/improvement works. Non-Recoverable VAT.",
+    "other_names": "",
+    "format": "other",
+    "start_date": "22-05-2019",
+    "end_date": "",
+    "key": 521083
+  },
+  {
+    "current_name": "Building Operation.Repair/maintenance services - no refurbs",
+    "category": "Building maintenance services - like for like maintenance only (excludes refurbishment/improvement)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521085
+  },
+  {
+    "current_name": "Building Operation.Service charges not part of rental/lease",
+    "category": "Service Charges for facilities management which are not part of any rental/lease agreement - HO Buildings in UK (excludes supplies recharges to third parties)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521516
+  },
+  {
+    "current_name": "Building Operation.Service charges recharged to 3rd parties",
+    "category": "Service Charges recharge UK building (separate to any rental/lease agreement) - Only for costs recharged (with VAT charged) to third party (inc. OGDs)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521516
+  },
+  {
+    "current_name": "Building Operation.Services recharged to 3rd parties",
+    "category": "Cleaning recharge (UK buildings) - Only for costs recharged (with VAT charged) onto third parties (inc. OGDs).",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521073
+  },
+  {
+    "current_name": "Business Support.Accomodation & Building Mgmt Project Works",
+    "category": "Accommodation and Project Work at buildings",
+    "other_names": "",
+    "format": "other",
+    "start_date": "04-06-2019",
+    "end_date": "",
+    "key": 521088
+  },
+  {
+    "current_name": "Business Support.Buildings management & admin services",
+    "category": "Management & Administration of HO rental/Lease agreement UK buildings (Property Fixed Asset)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521096
+  },
+  {
+    "current_name": "Business Support.Delivery only",
+    "category": "Delivery only",
+    "other_names": "",
+    "format": "other",
+    "start_date": "19-07-2019",
+    "end_date": "",
+    "key": 521712
+  },
+  {
+    "current_name": "Business Support.HO Staff laundry services",
+    "category": "Laundry services for HO staff clothing",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 522010
+  },
+  {
+    "current_name": "Business Support.Mail & messenger services",
+    "category": "Office mail & messenger services",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521712
+  },
+  {
+    "current_name": "Business Support.OVERSEAS Buildings management & admin services",
+    "category": "Property Occupation. Real Estate Services Other : Overseas : Outside Scope",
+    "other_names": "",
+    "format": "other",
+    "start_date": "05-09-2019",
+    "end_date": "",
+    "key": 521096
+  },
+  {
+    "current_name": "Business Support.Office relocation/removal services",
+    "category": "Office Relocation services (inc. moving accommodation from one floor to another) not PFI supplies",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521033
+  },
+  {
+    "current_name": "Business Support.Overseas posting by Overseas supplier",
+    "category": "Overseas posting services rendered by overseas supplier",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 522081
+  },
+  {
+    "current_name": "Business Support.Overseas posting by UK supplier",
+    "category": "Overseas posting services rendered by UK supplier",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 522081
+  },
+  {
+    "current_name": "Catering.'Basic' food & Drink - Zero Rated VAT",
+    "category": "Purchase of 'basic' food and drink - Do not use for catering services",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521094
+  },
+  {
+    "current_name": "Catering.Bottle/can vending machine purchase or hire",
+    "category": "Bottle or can vending machines purchase/hire alone",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521094
+  },
+  {
+    "current_name": "Catering.Catering services for HO events",
+    "category": "Catering services for HO events (excludes purchases of food and drink alone)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521098
+  },
+  {
+    "current_name": "Catering.Drinking fountain or bubbler purchases",
+    "category": "Drinking fountains or bubblers purchases",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521094
+  },
+  {
+    "current_name": "Catering.Equipment purchases",
+    "category": "Catering Equipment (purchase of) - Fixed Asset",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521094
+  },
+  {
+    "current_name": "Catering.Liquid vending machine purchases",
+    "category": "Liquid vending machines (purchase of)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521094
+  },
+  {
+    "current_name": "Catering.Other food & drink - 20% VAT charged",
+    "category": "Purchase of VATable foods e.g. confectionary, crisps, hot coffee bought from store",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521144
+  },
+  {
+    "current_name": "Food and Beverages.Bottled water purchases",
+    "category": "Bottled water purchases",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521094
+  },
+  {
+    "current_name": "Food and Beverages.Food and drink purchase (no VAT charged)",
+    "category": "Only use for Zero Rated food/drink e.g. coffee beans, fruit & veg. Do not use for catering services.",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521094
+  },
+  {
+    "current_name": "Food and Beverages.Food and drink purchases (VAT charged)",
+    "category": "Only use for the purchase of VATable foods e.g. confectionary, crisps, hot coffee bought from store",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521094
+  },
+  {
+    "current_name": "Food and Beverages.Food drink purchased & delivered overseas",
+    "category": "Food & Beverages purchased and delivered overseas",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521094
+  },
+  {
+    "current_name": "Office Furniture Fix & Fitting.Accommodation and Building Management Furniture",
+    "category": "Accommodation and Building Management Furniture",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-12-2021",
+    "end_date": "",
+    "key": 521074
+  },
+  {
+    "current_name": "Office Furniture Fix & Fitting.Equipment/goods purchases",
+    "category": "Furniture Fixture & Fitment goods purchases",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521108
+  },
+  {
+    "current_name": "Office Furniture Fix & Fitting.F & F - Fittings - CAPITAL ONLY",
+    "category": "F & F - Fittings - CAPITAL ONLY",
+    "other_names": "",
+    "format": "other",
+    "start_date": "13-06-2019",
+    "end_date": "",
+    "key": 116003
+  },
+  {
+    "current_name": "Office Furniture Fix & Fitting.F & F - Furniture - CAPITAL ONLY",
+    "category": "F & F - Furniture - CAPITAL ONLY",
+    "other_names": "",
+    "format": "other",
+    "start_date": "13-06-2019",
+    "end_date": "",
+    "key": 116322
+  },
+  {
+    "current_name": "Property Occupation.Accommodation Costs Other (UK buildings)",
+    "category": "'Other' Accommodation Costs not covered by other categories - UK buildings",
+    "other_names": "",
+    "format": "other",
+    "start_date": "10-01-2020",
+    "end_date": "",
+    "key": 521080
+  },
+  {
+    "current_name": "Property Occupation.Buildings Freehold - CAPITAL ONLY",
+    "category": "Buildings Freehold - CAPITAL ONLY",
+    "other_names": "",
+    "format": "other",
+    "start_date": "13-06-2019",
+    "end_date": "",
+    "key": 112003
+  },
+  {
+    "current_name": "Property Occupation.Buildings Leasehold - CAPITAL ONLY",
+    "category": "Buildings Leasehold - CAPITAL ONLY",
+    "other_names": "",
+    "format": "other",
+    "start_date": "13-06-2019",
+    "end_date": "",
+    "key": 112322
+  },
+  {
+    "current_name": "Property Occupation.FM disbursements paid on behalf of HO",
+    "category": "Facilities Management disbursements (paid in the name of and on behalf of the HO) by supplier",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521519
+  },
+  {
+    "current_name": "Property Occupation.HMRC Property Occupation charges",
+    "category": "HMRC Property Accommodation Charges",
+    "other_names": "",
+    "format": "other",
+    "start_date": "03-06-2019",
+    "end_date": "",
+    "key": 521510
+  },
+  {
+    "current_name": "Property Occupation.Initial painting/improvements services",
+    "category": "Initial painting of HO buildings or improvements in décor purchases",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521519
+  },
+  {
+    "current_name": "Property Occupation.Land, Leasehold and Freehold - CAPITAL ONLY",
+    "category": "Land, Leasehold and Freehold - CAPITAL ONLY",
+    "other_names": "",
+    "format": "other",
+    "start_date": "13-06-2019",
+    "end_date": "",
+    "key": 111003
+  },
+  {
+    "current_name": "Property Occupation.Overseas buildings maintenance services",
+    "category": "Overseas HO Building maintenance/refurbishment - Fixed Asset",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521519
+  },
+  {
+    "current_name": "Property Occupation.PFI accommodation HO buildings",
+    "category": "Private Finance Initiative (PFI) Managed Accommodation HO buildings",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521086
+  },
+  {
+    "current_name": "Property Occupation.Painting services to maintain décor",
+    "category": "Interior painting services to maintain original (like for like) décor HO buildings",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521075
+  },
+  {
+    "current_name": "Property Occupation.Parking fees HO exclusive bay",
+    "category": "Parking fees for a specific named parking bay exclusively for HO",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521086
+  },
+  {
+    "current_name": "Property Occupation.Parking fees other",
+    "category": "Parking fees - 'Other' parking fees not listed elsewhere",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521086
+  },
+  {
+    "current_name": "Property Occupation.Plant and Machinery- Held or installed outside the HO - CAPITAL ONLY",
+    "category": "Plant and Machinery- Held or installed outside the HO - CAPITAL ONLY",
+    "other_names": "",
+    "format": "other",
+    "start_date": "13-06-2019",
+    "end_date": "",
+    "key": 115003
+  },
+  {
+    "current_name": "Property Occupation.Plant and Machinery- Held or installed within the HO - CAPITAL ONLY",
+    "category": "Plant and Machinery- Held or installed within the HO - CAPITAL ONLY",
+    "other_names": "",
+    "format": "other",
+    "start_date": "13-06-2019",
+    "end_date": "",
+    "key": 115322
+  },
+  {
+    "current_name": "Property Occupation.Property rates HO buildings",
+    "category": "Rates for HO buildings",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 591001
+  },
+  {
+    "current_name": "Property Occupation.Property tax HO buildings",
+    "category": "Property tax HO buildings",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 181510
+  },
+  {
+    "current_name": "Property Occupation.Real estate services other",
+    "category": "Real estate services - 'Other' real estate/facilities services not listed elsewhere",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521096
+  },
+  {
+    "current_name": "Property Occupation.Rental charges HO building (VAT 20%)",
+    "category": "Residential and Commercial rental/lease charges (where supplier has 'opted to tax')",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 581004
+  },
+  {
+    "current_name": "Property Occupation.Rental charges HO buildings (VAT Exempt)",
+    "category": "Residential and Commercial rental/lease charges (where supplier has NOT 'opted to tax')",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 581004
+  },
+  {
+    "current_name": "Property Occupation.Services charges part of Exempt Rent",
+    "category": "Service Charges part of rental/lease agreement for HO buildings",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521516
+  },
+  {
+    "current_name": "Property Occupation.Services charges recharged 3rd parties",
+    "category": "Service Charges recharged to third parties as part of rental agreement for UK building - Only for costs recharged as part of a rental agreement onto third party",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521516
+  },
+  {
+    "current_name": "Fleet Management.Fleet management services",
+    "category": "Fleet management services (excluding vehicle hire)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 522021
+  },
+  {
+    "current_name": "Fleet Management.Qualifying vessel purchase/charter",
+    "category": "Purchase/charter of qualifying vessels (gross tonnage over 15 tons, not designed for leisure)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "11-10-2018",
+    "end_date": "",
+    "key": 522021
+  },
+  {
+    "current_name": "Fleet Management.Repair and maintenance service for vehicles",
+    "category": "Maintenance services for HO owned/leased vehicles - must be separate & independent contract",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 522008
+  },
+  {
+    "current_name": "Fleet Management.Repair and maintenance service for vessels",
+    "category": "R&M of HO owned/leased qualifying vessel (over gross tonnage of 15 tons & not designed for leisure)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 522008
+  },
+  {
+    "current_name": "Fleet Management.Transport - Cars, Vans, Buses, Bike, Forklifts, trucks,  - CAPITAL ONLY",
+    "category": "Transport - Cars, Vans, Buses, Bike, Forklifts, trucks,  - CAPITAL ONLY",
+    "other_names": "",
+    "format": "other",
+    "start_date": "13-06-2019",
+    "end_date": "",
+    "key": 121322
+  },
+  {
+    "current_name": "Fleet Management.Transport - Ships and sea vessels - CAPITAL ONLY",
+    "category": "Transport - Ships and sea vessels - CAPITAL ONLY",
+    "other_names": "",
+    "format": "other",
+    "start_date": "13-06-2019",
+    "end_date": "",
+    "key": 121003
+  },
+  {
+    "current_name": "Vehicle Hire and Lease.Hire contract excluding maintenance",
+    "category": "Vehicle Hire & Lease contract alone (excluding repair and maintenance)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 522007
+  },
+  {
+    "current_name": "Vehicle Hire and Lease.Hire contracts including maintenance",
+    "category": "Vehicle lease contracts including repair and maintenance within single contract",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 522007
+  },
+  {
+    "current_name": "Non Capital Grant.ALB GRANT ONLY (freely given payment)",
+    "category": "ALB GRANTS ONLY (i.e. a freely given payment in return for no specific good/service)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 541014
+  },
+  {
+    "current_name": "Non Capital Grant.Firefighter Pensions",
+    "category": "CURRENT GRANTS TO LOCAL GOVERNMENT - FIREFIGHTER SUPERANN-PENSION & GRATUITUES",
+    "other_names": "",
+    "format": "other",
+    "start_date": "22-03-2019",
+    "end_date": "",
+    "key": 541017
+  },
+  {
+    "current_name": "Non Capital Grant.Police DBS Checks - Other Costs",
+    "category": "Police DBS Other Costs",
+    "other_names": "",
+    "format": "other",
+    "start_date": "05-09-2019",
+    "end_date": "",
+    "key": 522083
+  },
+  {
+    "current_name": "Non Capital Grant.Police DBS Checks - Staffing Costs",
+    "category": "Police DBS Staffing Costs",
+    "other_names": "",
+    "format": "other",
+    "start_date": "05-09-2019",
+    "end_date": "",
+    "key": 591028
+  },
+  {
+    "current_name": "Non Capital Grant.Police Pensions",
+    "category": "CURRENT GRANTS TO LOCAL GOVERNMENT - POLICE SUPERANN-PENSION & GRATUITUES",
+    "other_names": "",
+    "format": "other",
+    "start_date": "22-03-2019",
+    "end_date": "",
+    "key": 541017
+  },
+  {
+    "current_name": "ICT Fixed Assets - Hardware / Hw Support (non rec VAT)",
+    "category": "Capital Hardware & Hardware support For ICT rec non VAT",
+    "other_names": "",
+    "format": "other",
+    "start_date": "31-03-2020",
+    "end_date": "",
+    "key": 114003
+  },
+  {
+    "current_name": "ICT Fixed Assets - Hardware / Hw maintenance services Support (rec VAT)",
+    "category": "Capital Hardware & Hardware support For ICT rec VAT",
+    "other_names": "",
+    "format": "other",
+    "start_date": "30-03-2020",
+    "end_date": "",
+    "key": 114003
+  },
+  {
+    "current_name": "ICT Hardware.Computer Equipment purchase for HO",
+    "category": "Computer Equipment - Fixed Asset purchases",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521831
+  },
+  {
+    "current_name": "ICT Hardware.Computer Equipment recharged to 3rd parties",
+    "category": "Hardware recharge - Only for costs being recharged (with VAT charged) onto third parties (inc. OGDs)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521831
+  },
+  {
+    "current_name": "ICT Hardware.Hardware - other Support (non rec VAT)",
+    "category": "Hardware & Hardware support For ICT rec non VAT",
+    "other_names": "",
+    "format": "other",
+    "start_date": "31-03-2020",
+    "end_date": "",
+    "key": 521831
+  },
+  {
+    "current_name": "ICT Hardware.Hardware maintenance services Support (rec VAT)",
+    "category": "Maintenance services for hardware we own/lease",
+    "other_names": "",
+    "format": "other",
+    "start_date": "30-03-2020",
+    "end_date": "",
+    "key": 521831
+  },
+  {
+    "current_name": "ICT Hardware.Hardware purchased and delivered Overseas",
+    "category": "ICT hardware delivered to Overseas HO buildings by Overseas supplier",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521831
+  },
+  {
+    "current_name": "ICT Hardware.ICT services other",
+    "category": "ICT Services - 'Other' ICT services not listed elsewhere",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 541000
+  },
+  {
+    "current_name": "ICT Hardware.IT Hardware - Laptops, computers, printers,   - CAPITAL ONLY",
+    "category": "IT Hardware - Laptops, computers, printers,   - CAPITAL ONLY",
+    "other_names": "",
+    "format": "other",
+    "start_date": "13-06-2019",
+    "end_date": "",
+    "key": 114003
+  },
+  {
+    "current_name": "ICT Hardware.IT Hardware - PFI - CAPITAL ONLY",
+    "category": "IT Hardware - PFI - CAPITAL ONLY",
+    "other_names": "",
+    "format": "other",
+    "start_date": "13-06-2019",
+    "end_date": "",
+    "key": 114040
+  },
+  {
+    "current_name": "ICT Hardware.IT Hardware - Servers, Cablings, Data storage - CAPITAL ONLY",
+    "category": "IT Hardware - Servers, Cablings, Data storage - CAPITAL ONLY",
+    "other_names": "",
+    "format": "other",
+    "start_date": "13-06-2019",
+    "end_date": "",
+    "key": 114022
+  },
+  {
+    "current_name": "ICT Hardware.IT hardware purchases (e.g. desktops, phones)",
+    "category": "ICT Hardware purchases (e.g. desktop computers, laptops, notebooks, servers etc.)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521831
+  },
+  {
+    "current_name": "ICT Hardware.Intangible IT - Software Licences, Websites  - CAPITAL ONLY",
+    "category": "Intangible IT - Software Licences, Websites  - CAPITAL ONLY",
+    "other_names": "",
+    "format": "other",
+    "start_date": "13-06-2019",
+    "end_date": "",
+    "key": 141003
+  },
+  {
+    "current_name": "ICT Hardware.Intangible IT - Software, Interface, Intangible PFI - CAPITAL ONLY",
+    "category": "Intangible IT - Software, Interface, Intangible PFI - CAPITAL ONLY",
+    "other_names": "",
+    "format": "other",
+    "start_date": "13-06-2019",
+    "end_date": "",
+    "key": 142122
+  },
+  {
+    "current_name": "Fleet Management.Non-qualifying vessel purchase/charter",
+    "category": "Purchase/charter of non-qualifying vessels (gross tonnage NOT over 15 tons/designed for leisure) - VAT Charged",
+    "other_names": "",
+    "format": "other",
+    "start_date": "21-01-2019",
+    "end_date": "",
+    "key": 522021
+  },
+  {
+    "current_name": "ICT Fixed Assets - Default / other IT run costs (non rec VAT)",
+    "category": "Capital ICT default / other IT run costs For ICT non rec VAT",
+    "other_names": "",
+    "format": "other",
+    "start_date": "31-03-2020",
+    "end_date": "",
+    "key": 141003
+  },
+  {
+    "current_name": "ICT Fixed Assets - Default / other IT run costs for the development, implementation and support of bespoke software  (rec VAT)",
+    "category": "Capital ICT default / other IT run costs For ICT rec VAT",
+    "other_names": "",
+    "format": "other",
+    "start_date": "30-03-2020",
+    "end_date": "",
+    "key": 141003
+  },
+  {
+    "current_name": "ICT Fixed Assets - Hosting (Non rec VAT)",
+    "category": "Capital Hosting spend For ICT non rec VAT",
+    "other_names": "",
+    "format": "other",
+    "start_date": "31-03-2020",
+    "end_date": "",
+    "key": 141003
+  },
+  {
+    "current_name": "ICT Fixed Assets - Hosting service dovetail into bespoke system (rec VAT)",
+    "category": "Capital Hosting spend For ICT rec VAT",
+    "other_names": "",
+    "format": "other",
+    "start_date": "30-03-2020",
+    "end_date": "",
+    "key": 141003
+  },
+  {
+    "current_name": "ICT Fixed Assets - Networks (non rec VAT)",
+    "category": "Capital Networking spend For ICT non rec VAT",
+    "other_names": "",
+    "format": "other",
+    "start_date": "31-03-2020",
+    "end_date": "",
+    "key": 114003
+  },
+  {
+    "current_name": "ICT Fixed Assets - Professional Services  bespoke software/system development  (rec VAT)",
+    "category": "Capital Prof services For ICT (rec VAT)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "30-03-2020",
+    "end_date": "",
+    "key": 141003
+  },
+  {
+    "current_name": "ICT Fixed Assets - Professional Services (Non rec VAT)",
+    "category": "Capital Prof services For ICT (Non rec VAT)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "31-03-2020",
+    "end_date": "",
+    "key": 141003
+  },
+  {
+    "current_name": "ICT Fixed Assets - Software / licences (non rec VAT)",
+    "category": "Capital Software & licences For ICT non rec VAT",
+    "other_names": "",
+    "format": "other",
+    "start_date": "31-03-2020",
+    "end_date": "",
+    "key": 142122
+  },
+  {
+    "current_name": "ICT Fixed Assets - Software Application Support (non rec VAT)",
+    "category": "Capital Software application support non rec VAT",
+    "other_names": "",
+    "format": "other",
+    "start_date": "31-03-2020",
+    "end_date": "",
+    "key": 142122
+  },
+  {
+    "current_name": "ICT Fixed Assets - Software Application Support for bespoke IT system (rec VAT)",
+    "category": "Capital Software application support rec VAT",
+    "other_names": "",
+    "format": "other",
+    "start_date": "30-03-2020",
+    "end_date": "",
+    "key": 142122
+  },
+  {
+    "current_name": "ICT Fixed Assets - bespoke Software licence/generic integral licence (rec VAT)",
+    "category": "Capital Software & licences For ICT rec VAT",
+    "other_names": "",
+    "format": "other",
+    "start_date": "30-03-2020",
+    "end_date": "",
+    "key": 142122
+  },
+  {
+    "current_name": "ICT Services.Database design services",
+    "category": "Database design services",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521132
+  },
+  {
+    "current_name": "ICT Services.Firearms database ICT purchases",
+    "category": "Firearms Database ICT purchases",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521132
+  },
+  {
+    "current_name": "ICT Services.Fixed Assets Networking service dovetail into bespoke system (rec VAT)",
+    "category": "Capital Networking spend For ICT rec VAT",
+    "other_names": "",
+    "format": "other",
+    "start_date": "30-03-2020",
+    "end_date": "",
+    "key": 114003
+  },
+  {
+    "current_name": "ICT Services.Home Office Biometrics IT purchases",
+    "category": "Home Office Biometrics Services (HOB) IT purchases",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521132
+  },
+  {
+    "current_name": "ICT Services.Home Office Biometrics IT purchases CAPITAL",
+    "category": "Home Office Biometrics Services (HOB) IT purchases CAPITAL account code - 50% VAT recovery",
+    "other_names": "",
+    "format": "other",
+    "start_date": "21-01-2019",
+    "end_date": "",
+    "key": 114003
+  },
+  {
+    "current_name": "ICT Services.Hosting - other (Non rec VAT)",
+    "category": "Hosting spend For ICT (Non Rec VAT)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "31-03-2020",
+    "end_date": "",
+    "key": 521835
+  },
+  {
+    "current_name": "ICT Services.Hosting service dovetail into a bespoke IT system (rec VAT)",
+    "category": "Hosting services dovetailing into a bespoke IT system (Rec VAT)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "30-03-2020",
+    "end_date": "",
+    "key": 521835
+  },
+  {
+    "current_name": "ICT Services.IT resources recharged to 3rd parties (TDCS)",
+    "category": "IT resources recharge Only for costs recharged (with VAT charged) onto third party (inc. OGDs).",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521132
+  },
+  {
+    "current_name": "ICT Services.Internet application development other",
+    "category": "Other' Internet application development services not listed elsewhere",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521132
+  },
+  {
+    "current_name": "ICT Services.LAN & WAN hardware maintenance only services",
+    "category": "Separate & independent maintenance contracts for HO owned/leased equipment",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521132
+  },
+  {
+    "current_name": "ICT Services.LAN & WAN maintenance services other",
+    "category": "LAN & WAN maintenance/support - 'Other' LAN maintenance/support services not listed elsewhere",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521132
+  },
+  {
+    "current_name": "ICT Services.LAN & WAN services part of bespoke IT system",
+    "category": "LAN & WAN services dovetailing into bespoke and outsourced HO IT systems",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521132
+  },
+  {
+    "current_name": "ICT Services.Maintenance & support services other",
+    "category": "Maintenance or support services - 'Other' Maintenance or support fees not listed elsewhere",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521132
+  },
+  {
+    "current_name": "ICT Services.Maintenance services for HO IT equipment",
+    "category": "Repair and maintenance services IT equipment (independent and separate to purchase/lease agreement)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521132
+  },
+  {
+    "current_name": "ICT Services.Maintenance services of bespoke HO IT system",
+    "category": "Maintenance/support services of bespoke & outsourced software built specifically for HO",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521132
+  },
+  {
+    "current_name": "ICT Services.National Law Enforcement Data Service CAPITAL",
+    "category": "National Law Enforcement Data Service (NLEDS) IT purchases CAPITAL account code - 87% VAT recovery",
+    "other_names": "",
+    "format": "other",
+    "start_date": "21-01-2019",
+    "end_date": "",
+    "key": 114003
+  },
+  {
+    "current_name": "ICT Services.National Law Enforcement Data Service purchases",
+    "category": "National Law Enforcement Data Service (NLEDS) IT purchases",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521132
+  },
+  {
+    "current_name": "ICT Services.Networking service dovetail into a bespoke IT system (rec VAT)",
+    "category": "Networking services dovetailing into a bespoke IT system (Rec VAT)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "19-07-2019",
+    "end_date": "",
+    "key": 521836
+  },
+  {
+    "current_name": "ICT Services.Networks - other (non rec VAT)",
+    "category": "Networking spend For ICT (Non Rec VAT)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "31-03-2020",
+    "end_date": "",
+    "key": 521836
+  },
+  {
+    "current_name": "ICT Services.Police National Computer IT purchases Other",
+    "category": "Police National Computer (PNC) Service IT purchases- Other goods/services not listed elsewhere",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521834
+  },
+  {
+    "current_name": "ICT Services.Police National Computer bespoke software",
+    "category": "PNC - bespoke software services (control of staff activities with supplier & paid per deliverable)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521834
+  },
+  {
+    "current_name": "ICT Services.Policing IT projects recharged to 3rd parties",
+    "category": "Policing IT purchases where cost wholly recharged onto police RESOURCE - 100% VAT recovery",
+    "other_names": "",
+    "format": "other",
+    "start_date": "21-01-2019",
+    "end_date": "",
+    "key": 521132
+  },
+  {
+    "current_name": "ICT Services.Policing IT recharged to 3rd parties CAPITAL",
+    "category": "Policing IT purchases where cost wholly recharged onto police CAPITAL account code - 100% recovery",
+    "other_names": "",
+    "format": "other",
+    "start_date": "21-01-2019",
+    "end_date": "",
+    "key": 114003
+  },
+  {
+    "current_name": "ICT Services.Professional Services bespoke software/system development (rec VAT)",
+    "category": "Professional Service spend bespoke software/system development as a service (Rec VAT)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "30-03-2020",
+    "end_date": "",
+    "key": 521129
+  },
+  {
+    "current_name": "ICT Services.Remote database information retrieval services",
+    "category": "Remote Database information retrieval services",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521132
+  },
+  {
+    "current_name": "ICT Services.Schengan SIS recharged to 3rd parties",
+    "category": "SIS II recharged to third parties - Only where costs are recharged to third parties (inc. OGDs).",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521834
+  },
+  {
+    "current_name": "ICT Services.User interface design services",
+    "category": "IT application user interface design services only (excluding backend application development)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521834
+  },
+  {
+    "current_name": "ICT Services.eForensics database services",
+    "category": "eForensics Database services",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521132
+  },
+  {
+    "current_name": "ICT ServicesProfessional Services - other (non rec VAT)",
+    "category": "Professional Service spend For ICT (Non Rec VAT)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "31-03-2020",
+    "end_date": "",
+    "key": 521129
+  },
+  {
+    "current_name": "ICT Software.Application Support (non rec VAT)",
+    "category": "Software application support (Non Rec VAT)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "31-03-2020",
+    "end_date": "",
+    "key": 521834
+  },
+  {
+    "current_name": "ICT Software.bespoke licence/generic licence integral to bespoke system (rec VAT)",
+    "category": "Bespoke software licence or generic licence where it is integral to a bespoke system (Rec VAT)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "30-03-2020",
+    "end_date": "",
+    "key": 521832
+  },
+  {
+    "current_name": "ICT Software.licences - other (non rec VAT)",
+    "category": "Software & licences For ICT (Non Rec VAT)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "31-03-2020",
+    "end_date": "",
+    "key": 521832
+  },
+  {
+    "current_name": "ICT default / other IT run costs (non rec VAT)",
+    "category": "ICT default / other IT run costs For ICT (Non Rec VAT)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "31-03-2020",
+    "end_date": "",
+    "key": 521132
+  },
+  {
+    "current_name": "ICT default / other IT run costs for the development, implementation and support of bespoke software  (rec VAT)",
+    "category": "ICT default / other IT run costs For ICT (Rec VAT)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "30-03-2020",
+    "end_date": "",
+    "key": 521132
+  },
+  {
+    "current_name": "ICT Services.Passport ICT Support bespoke IT system (recoverable VAT)",
+    "category": "Passport ICT Support bespoke IT system services (recoverable VAT)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "08-07-2019",
+    "end_date": "",
+    "key": 521115
+  },
+  {
+    "current_name": "IT Managed/Outsourced Services.Bespoke IT system dev CAPITAL",
+    "category": "Services of developing bespoke & outsourced HO IT systems (where the supplier controls staff day to day activities, and holds risk of service delivery) CAPITAL",
+    "other_names": "",
+    "format": "other",
+    "start_date": "21-01-2019",
+    "end_date": "",
+    "key": 114003
+  },
+  {
+    "current_name": "IT Managed/Outsourced Services.Bespoke IT system development",
+    "category": "Services of developing bespoke & outsourced HO IT systems (where the supplier controls staff day to day activities, and holds risk of service delivery)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521132
+  },
+  {
+    "current_name": "IT Managed/Outsourced Services.Other outsourced services",
+    "category": "IT Managed / outsourced Services - 'Other' IT Managed / outsourced service not listed elsewhere",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521132
+  },
+  {
+    "current_name": "IT Managed/Outsourced Services.Project management services",
+    "category": "Project management services dealing with internal matters (Business change, resource management etc)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521132
+  },
+  {
+    "current_name": "IT Managed/Outsourced Services.Systems integration services",
+    "category": "Technical systems integration services dovetailing into bespoke & outsourced HO IT systems (i.e. managing towers to ensure the entire IT system functions properly)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521132
+  },
+  {
+    "current_name": "OGD.Other Government Department Grants",
+    "category": "Non-Procurement - Payments to Other Government Departments, no receipt of goods/services",
+    "other_names": "",
+    "format": "other",
+    "start_date": "05-09-2019",
+    "end_date": "",
+    "key": 591004
+  },
+  {
+    "current_name": "ICT Software.Application Support services for bespoke IT system (rec VAT)",
+    "category": "Software application support relating to a bespoke IT system (Rec VAT)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "30-03-2020",
+    "end_date": "",
+    "key": 521834
+  },
+  {
+    "current_name": "Software.Bespoke software development outsourced",
+    "category": "Outsourced bespoke software development service specifically for HO (contact VATTEAM before use)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521132
+  },
+  {
+    "current_name": "Software.Bespoke software development outsourced CAPITAL",
+    "category": "Outsourced bespoke software development service specifically for HO  (contact VATTEAM before use) CAPITAL",
+    "other_names": "",
+    "format": "other",
+    "start_date": "21-01-2019",
+    "end_date": "",
+    "key": 114003
+  },
+  {
+    "current_name": "Software.Bespoke software development outsourced INTANGIBLE CAPITAL",
+    "category": "Bespoke Software developed outsourced Intangible Capital asset.",
+    "other_names": "",
+    "format": "other",
+    "start_date": "19-07-2019",
+    "end_date": "",
+    "key": 141003
+  },
+  {
+    "current_name": "Software.Cloud software dovetailing into bespoke IT system",
+    "category": "Software as Service dovetailing into bespoke & outsourced HO IT system (contact VATTEAM before use)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521132
+  },
+  {
+    "current_name": "Software.Development software tools",
+    "category": "Software tools (not an integral part of any bespoke and fully outsourced IT system/software)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521132
+  },
+  {
+    "current_name": "Software.Disaster Victim Identify software purchases",
+    "category": "Disaster Victim Identify ICT software purchases",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 141003
+  },
+  {
+    "current_name": "Software.Generic software integral to bespoke IT system",
+    "category": "Generic software integral to bespoke & outsourced HO IT system (i.e. the system would not function without) (contact VATTEAM before use)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521832
+  },
+  {
+    "current_name": "Software.Software other",
+    "category": "Computer Software - Fixed Asset purchases - Other services/goods not listed elsewhere",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 114003
+  },
+  {
+    "current_name": "Software.Software recharged to 3rd parties",
+    "category": "Software recharge - Only where costs are recharged (with VAT charged) onto third parties (inc. OGDs)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521132
+  },
+  {
+    "current_name": "Telecoms.IT and telecoms services other",
+    "category": "Other' IT broadcast and telecoms services not listed elsewhere",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521125
+  },
+  {
+    "current_name": "Telecoms.Telecoms PDP services UK HO buildings",
+    "category": "Telecommunications Packet Data Protocol services for UK HO buildings",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521125
+  },
+  {
+    "current_name": "Telecoms.Telecoms PDP services overseas HO buildings",
+    "category": "Telecommunications Packet Data Protocol services for Overseas HO buildings",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521125
+  },
+  {
+    "current_name": "Telecoms.Telephony device purchases",
+    "category": "Telephony device purchases (fixed, mobile phones etc.)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521126
+  },
+  {
+    "current_name": "Operation of Indust Facilities.Asylum Cash support 4c",
+    "category": "Asylum Seekers Section 4c Face Value Cash voucher purchases redeemable anywhere",
+    "other_names": "",
+    "format": "other",
+    "start_date": "21-03-2019",
+    "end_date": "",
+    "key": 521429
+  },
+  {
+    "current_name": "Operation of Indust Facilities.Asylum S95a dispersed acommodation",
+    "category": "Asylum Dispersed Accommodation S95a",
+    "other_names": "",
+    "format": "other",
+    "start_date": "21-03-2019",
+    "end_date": "",
+    "key": 521425
+  },
+  {
+    "current_name": "Operation of Indust Facilities.Asylum Section 4a hard cases",
+    "category": "Asylum services section 4 hard cases",
+    "other_names": "",
+    "format": "other",
+    "start_date": "21-03-2019",
+    "end_date": "",
+    "key": 521430
+  },
+  {
+    "current_name": "Operation of Indust Facilities.Asylum seeker 95c cash support",
+    "category": "Asylum seeker section 95c cash support - face value cash voucher",
+    "other_names": "",
+    "format": "other",
+    "start_date": "21-03-2019",
+    "end_date": "",
+    "key": 521428
+  },
+  {
+    "current_name": "Operation of Indust Facilities.Asylum seeker initial accommodation",
+    "category": "Asylum seeker initial accommodation",
+    "other_names": "",
+    "format": "other",
+    "start_date": "21-03-2019",
+    "end_date": "",
+    "key": 521427
+  },
+  {
+    "current_name": "Operation of Indust Facilities.Asylum seeker transport svcs",
+    "category": "Outsourced passenger transport services (separate contract to any accommodation services)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521426
+  },
+  {
+    "current_name": "Operation of Indust Facilities.Asylum services other",
+    "category": "Asylum Services - 'Other' asylum related contracted out services not listed elsewhere",
+    "other_names": "",
+    "format": "other",
+    "start_date": "21-03-2019",
+    "end_date": "",
+    "key": 521421
+  },
+  {
+    "current_name": "Operation of Indust Facilities.DETENTION - OVERSEAS ESCORTS",
+    "category": "DETENTION - OVERSEAS ESCORTS",
+    "other_names": "",
+    "format": "other",
+    "start_date": "13-06-2019",
+    "end_date": "",
+    "key": 521440
+  },
+  {
+    "current_name": "Operation of Indust Facilities.DETENTION - PORT AUTHORITY",
+    "category": "DETENTION - PORT AUTHORITY",
+    "other_names": "",
+    "format": "other",
+    "start_date": "13-06-2019",
+    "end_date": "",
+    "key": 591024
+  },
+  {
+    "current_name": "Operation of Indust Facilities.DETENTION CENTRES - RUN COSTS",
+    "category": "DETENTION - DETENTION CENTRES - RUN COSTS",
+    "other_names": "",
+    "format": "other",
+    "start_date": "13-06-2019",
+    "end_date": "",
+    "key": 521443
+  },
+  {
+    "current_name": "Operation of Indust Facilities.DETENTION IN POLICE CELLS",
+    "category": "DETENTION IN POLICE CELLS",
+    "other_names": "",
+    "format": "other",
+    "start_date": "13-06-2019",
+    "end_date": "",
+    "key": 521441
+  },
+  {
+    "current_name": "Operation of Indust Facilities.IN COUNTRY ESCORT",
+    "category": "IN COUNTRY ESCORT",
+    "other_names": "",
+    "format": "other",
+    "start_date": "13-06-2019",
+    "end_date": "",
+    "key": 591011
+  },
+  {
+    "current_name": "Operation of Indust Facilities.Operation of IRCs outsourced",
+    "category": "Operation of detention centre facilities/immigration removal centres fully outsourced services",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521442
+  },
+  {
+    "current_name": "Operation of Indust Facilities.Operation of modern slavery services",
+    "category": "Modern Slavery Outsourced Services",
+    "other_names": "",
+    "format": "other",
+    "start_date": "08-02-2021",
+    "end_date": "",
+    "key": 522010
+  },
+  {
+    "current_name": "Learning and Development.Education svcs by charity, LA, GD",
+    "category": "Employee education by an eligible body i.e. GDs, Universities, non-profit making charity",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521010
+  },
+  {
+    "current_name": "Learning and Development.Library & online library services",
+    "category": "Library and internet library services (excluding access to specific journals, publications, one off)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521011
+  },
+  {
+    "current_name": "Learning and Development.Training svcs VAT charged DBS only",
+    "category": "Employee education/training services provided by commercial company for DBS staff DBS USE ONLY",
+    "other_names": "",
+    "format": "other",
+    "start_date": "21-01-2019",
+    "end_date": "",
+    "key": 521010
+  },
+  {
+    "current_name": "Learning and Development.Training svcs by charity, LA, GD",
+    "category": "Education & Training supplied by an eligible body e.g. GDs, Universities, non-profit making charity",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521010
+  },
+  {
+    "current_name": "Learning and Development.Training svcs by commercial body",
+    "category": "Employee education/training services provided by commercial company for HO staff",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521010
+  },
+  {
+    "current_name": "Non staff welfare.Career guidance, mentoring, counselling and other related services outsourced",
+    "category": "Non staff career guidance, mentoring, counselling and other related services",
+    "other_names": "",
+    "format": "other",
+    "start_date": "07-11-2022",
+    "end_date": "",
+    "key": 521210
+  },
+  {
+    "current_name": "Warehousing and Storage.Equipment transportation taking place wholly outside of EU",
+    "category": "Overseas equipment Transportation costs where the transportation takes place between countries outside of the EU. E.g. Australia - China.",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521107
+  },
+  {
+    "current_name": "Warehousing and Storage.General goods storage services",
+    "category": "HO General goods storage services",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 591009
+  },
+  {
+    "current_name": "Warehousing and Storage.Seized items storage services",
+    "category": "Storage & destruction services of HO/seized items",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 591009
+  },
+  {
+    "current_name": "Warehousing and Storage.Supply of BRP Cards and Kinegrams (Balance Sheet)",
+    "category": "Supply of BRP Cards and Kinegrams (Balance Sheet)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "19-07-2019",
+    "end_date": "",
+    "key": 183043
+  },
+  {
+    "current_name": "Courier.Courier & RM Business account services (VAT charged)",
+    "category": "Courier and RM Business account services - VAT charged",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521107
+  },
+  {
+    "current_name": "Courier.Passport Production - Overseas Secure Delivery Courier Services",
+    "category": "Overseas Secure Delivery Courier Services",
+    "other_names": "",
+    "format": "other",
+    "start_date": "22-05-2019",
+    "end_date": "",
+    "key": 521451
+  },
+  {
+    "current_name": "Courier.Passport Production - Secure Delivery Courier Service",
+    "category": "Secure Delivery Courier Service",
+    "other_names": "",
+    "format": "other",
+    "start_date": "22-05-2019",
+    "end_date": "",
+    "key": 521450
+  },
+  {
+    "current_name": "Courier.RM 1st & 2nd class standard services (VAT Exempt)",
+    "category": "RM 1st and 2nd standard services (excludes business account services) - no VAT charged",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 522081
+  },
+  {
+    "current_name": "Office Furniture Fix & Fitting.Equipment/goods purchases OVERSEAS supplier and delivery",
+    "category": "Furniture Fixture & Fitment goods purchases : Overseas : Outside of Scope",
+    "other_names": "",
+    "format": "other",
+    "start_date": "05-09-2019",
+    "end_date": "",
+    "key": 521108
+  },
+  {
+    "current_name": "Office Machines.Device/equipment purchases/hire",
+    "category": "Multifunctional Devices Printers Faxes and Scanners (purchase/hire of)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521108
+  },
+  {
+    "current_name": "Office Machines.Equipment recharged to 3rd parties",
+    "category": "Office equipment recharge Only for costs being recharged (with VAT charged) to third party (inc OGD)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521108
+  },
+  {
+    "current_name": "Office Machines.Franking machine purchase/hire",
+    "category": "Franking machine purchase/hire including handling charges and maintenance costs",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521108
+  },
+  {
+    "current_name": "Office Machines.Printer hire inc. repair and maintenance",
+    "category": "Printer hire including repair and maintenance (e.g. copy & click) - excludes printer hire alone",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521108
+  },
+  {
+    "current_name": "Office Machines.Printer purchases/hire Overseas HO buildings",
+    "category": "Multifunctional Devices Printers Faxes and Scanners (purchase/hire of) Overseas supplier to overseas HO buildings",
+    "other_names": "",
+    "format": "other",
+    "start_date": "21-01-2019",
+    "end_date": "",
+    "key": 521108
+  },
+  {
+    "current_name": "Office Supplies.Badge/badge holder purchases",
+    "category": "Badges or badge holders purchases",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521106
+  },
+  {
+    "current_name": "Office Supplies.Conference folder purchases",
+    "category": "Conference folder purchases",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521106
+  },
+  {
+    "current_name": "Office Supplies.Packaging boxes purchases",
+    "category": "Packaging boxes purchases",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521106
+  },
+  {
+    "current_name": "Office Supplies.Paper materials and products purchases",
+    "category": "Paper Materials & Products purchases",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521106
+  },
+  {
+    "current_name": "Office Supplies.Paper pads and notebooks purchases",
+    "category": "Paper pads or notebooks purchase",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521106
+  },
+  {
+    "current_name": "Office Supplies.Printing & writing paper purchases",
+    "category": "Printing & writing paper purchases",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521106
+  },
+  {
+    "current_name": "Office Supplies.Stationery purchases",
+    "category": "Stationery purchases",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521106
+  },
+  {
+    "current_name": "Record Management.Document/record storage services",
+    "category": "Document/record storage services fully outsourced",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521102
+  },
+  {
+    "current_name": "Record Management.Record managemnt services",
+    "category": "Record Management services fully outsourced",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521102
+  },
+  {
+    "current_name": "Clothing and Textiles.Uniforms purchases",
+    "category": "Uniforms (purchase of uniforms for HO staff)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 522014
+  },
+  {
+    "current_name": "Learning & Develop Materials.L&D materials (VAT charged)",
+    "category": "Learning & Development Materials - 'Other' L&D materials not listed elsewhere (VAT charged)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521011
+  },
+  {
+    "current_name": "Learning & Develop Materials.L&D materials (no VAT charged)",
+    "category": "Learning & Development Materials- Books, magazines, leaflets, brochures (no VAT charged)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521011
+  },
+  {
+    "current_name": "Multimedia Equipment.Equipment purchases",
+    "category": "Multimedia Equipment purchase - Fixed Asset",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521045
+  },
+  {
+    "current_name": "Multimedia Equipment.Photo filmmaking supplies purchases",
+    "category": "Photo filmmaking supplies purchases",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521045
+  },
+  {
+    "current_name": "Operational Goods.Dog & Cat food purchases",
+    "category": "Dog & cat food purchases",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 522010
+  },
+  {
+    "current_name": "Security.CONFINEMENT surveillance services",
+    "category": "CONFINEMENT Surveillance services",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 522025
+  },
+  {
+    "current_name": "Security.Lone staff monitoring services",
+    "category": "Security & personal safety - lone worker staff monitoring services",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 522025
+  },
+  {
+    "current_name": "Security.Purchase/lease of security/access control systems",
+    "category": "Purchase/lease of security/access control systems",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 115003
+  },
+  {
+    "current_name": "Security.Security & bodyguard services outsourced",
+    "category": "Security patrol services inc. security guards with surveillance & secure transport of HO items",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 522025
+  },
+  {
+    "current_name": "Security.Security & personnel services other",
+    "category": "Security & personnel safety - 'Other' Security & personnel safety services not listed elsewhere",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 522025
+  },
+  {
+    "current_name": "Security.Security Systems - Royal VIPs",
+    "category": "Security Systems - Royal VIPs",
+    "other_names": "",
+    "format": "other",
+    "start_date": "19-10-2021",
+    "end_date": "",
+    "key": 541007
+  },
+  {
+    "current_name": "Security.Security patrol services",
+    "category": "Security patrol services, security guards alongside surveillance services",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 522025
+  },
+  {
+    "current_name": "Security.Security services other",
+    "category": "Security/bodyguard Services - 'Other' Bodyguard Services not listed elsewhere",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 522025
+  },
+  {
+    "current_name": "Security.Surveillance and detection equipment purchase",
+    "category": "Purchase of surveillance & detection equipment",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 522025
+  },
+  {
+    "current_name": "Staff Childcare.Childcare services by charity, LA, GD",
+    "category": "Staff Childcare by an eligible body e.g. GD, Local Authority, University, non-profit charity",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521037
+  },
+  {
+    "current_name": "Staff Childcare.Creche service by commercial provider",
+    "category": "Staff Childcare creche services by commercial provider",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521037
+  },
+  {
+    "current_name": "Staff Relocation.Relocation services outsourced",
+    "category": "HO Personnel fully outsourced relocation services",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521156
+  },
+  {
+    "current_name": "Staff Welfare.Compensation payments",
+    "category": "Staff support, compensation payments",
+    "other_names": "",
+    "format": "other",
+    "start_date": "05-09-2019",
+    "end_date": "",
+    "key": 591021
+  },
+  {
+    "current_name": "Staff Welfare.Employment advisory services",
+    "category": "HO staff employment advisory services including those by Civil Service Policy",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521217
+  },
+  {
+    "current_name": "Staff Welfare.Medals for staff",
+    "category": "Purchase of staff medals",
+    "other_names": "",
+    "format": "other",
+    "start_date": "22-03-2019",
+    "end_date": "",
+    "key": 522048
+  },
+  {
+    "current_name": "Staff Welfare.Reward and Recogniton",
+    "category": "Non Voucher R&R Spend",
+    "other_names": "",
+    "format": "other",
+    "start_date": "16-01-2020",
+    "end_date": "",
+    "key": 511043
+  },
+  {
+    "current_name": "Staff Welfare.Staff welfare, support, counselling outsourced",
+    "category": "Staff support, staff counselling and staff care services fully outsourced",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521217
+  },
+  {
+    "current_name": "Subscriptions and Admissions.Organisations & clubs (VAT 20%)",
+    "category": "Organizations & Clubs (VAT charged)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521035
+  },
+  {
+    "current_name": "Subscriptions and Admissions.Professional memberships",
+    "category": "Professional association memberships (no VAT charged)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521035
+  },
+  {
+    "current_name": "Printed Products.Bookbinding services",
+    "category": "Bookbinding services",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521045
+  },
+  {
+    "current_name": "Printed Products.Passport Production - Bespoke Business Stationery Print",
+    "category": "Bespoke Business Stationery Print",
+    "other_names": "",
+    "format": "other",
+    "start_date": "22-05-2019",
+    "end_date": "",
+    "key": 521456
+  },
+  {
+    "current_name": "Printed Products.Passport Production - Bespoke Business Stationery Print - Zero Rated VAT",
+    "category": "Passport production - Bespoke Business Stationery Print - Zero rated VAT",
+    "other_names": "",
+    "format": "other",
+    "start_date": "24-06-2019",
+    "end_date": "",
+    "key": 521456
+  },
+  {
+    "current_name": "Printed Products.Photocomposition services",
+    "category": "Photocomposition services outsourced",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521045
+  },
+  {
+    "current_name": "Printed Products.Printed publications (VAT charged)",
+    "category": "Printed publications - publishing fees & other printed matter not listed elsewhere (VAT charged)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521105
+  },
+  {
+    "current_name": "Printed Products.Printed publications (no VAT charged)",
+    "category": "Printed publications - books, magazines, leaflets, brochures (no VAT charged)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521105
+  },
+  {
+    "current_name": "Printing Services.BRP bespoke printing services",
+    "category": "Biometric Residency Permits bespoke printing services fully outsourced",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521105
+  },
+  {
+    "current_name": "Printing Services.Engraving services",
+    "category": "Engraving services",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521045
+  },
+  {
+    "current_name": "Printing Services.Graphic design services",
+    "category": "Graphic design fully outsourced services HO",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521059
+  },
+  {
+    "current_name": "Printing Services.Passport Production - Passport Printing",
+    "category": "Passport Printing",
+    "other_names": "",
+    "format": "other",
+    "start_date": "22-05-2019",
+    "end_date": "",
+    "key": 521116
+  },
+  {
+    "current_name": "Printing Services.Printing services for bespoke documents",
+    "category": "Printing services of bespoke documents for HO",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521105
+  },
+  {
+    "current_name": "Printing Services.VISA & Passport bespoke printing services",
+    "category": "VISAs & Passports related bespoke printing services fully outsourced",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521105
+  },
+  {
+    "current_name": "Associate",
+    "category": "Education and Training",
+    "other_names": "",
+    "format": "other",
+    "start_date": "07-11-2023",
+    "end_date": "",
+    "key": 511006
+  },
+  {
+    "current_name": "Consultancy.Advice services on HO efficiency/policy issues",
+    "category": "Professional advice services for department efficiency/policy issues - not for contingent labour",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521005
+  },
+  {
+    "current_name": "Consultancy.Advice services on viability of HO initiatives",
+    "category": "Professional advice for the viability of new departmental intiatives - not for contingent labour",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521005
+  },
+  {
+    "current_name": "Consultancy.Comprehensive benefits planning services",
+    "category": "Comprehensive benefits planning services",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521005
+  },
+  {
+    "current_name": "Consultancy.Computer consultancy other services",
+    "category": "Fixed Asset - 'Other' computer consultancy services not listed elsewhere",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521005
+  },
+  {
+    "current_name": "Consultancy.Computer consultancy recharged to 3rd parties",
+    "category": "Computer Consult. recharge Only for costs recharged (with VAT charged) to third parties (inc. OGDs).",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521003
+  },
+  {
+    "current_name": "Consultancy.Contractual reimbursement costs (TUPE) NO VAT",
+    "category": "Contractual reimbursement costs (under TUPE provisions). Outside Scope of VAT.",
+    "other_names": "",
+    "format": "other",
+    "start_date": "21-01-2019",
+    "end_date": "",
+    "key": 522010
+  },
+  {
+    "current_name": "Consultancy.Corporate objectives/policy development services",
+    "category": "Corporate objectives/policy development - using third parties to implement new policy into the HO",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521005
+  },
+  {
+    "current_name": "Consultancy.Deradicalisation services for convicted persons",
+    "category": "Deradicalisation services for convicted (or similar) persons - excludes surveillance services",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521310
+  },
+  {
+    "current_name": "Consultancy.Implementation and delivery services",
+    "category": "Implementation and delivery services e.g. project management",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521005
+  },
+  {
+    "current_name": "Consultancy.Land asset clearing services",
+    "category": "Land Asset Clearing services",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521005
+  },
+  {
+    "current_name": "Consultancy.Non-VAT registered consultants",
+    "category": "Non-VAT registered consultants (no VAT charged)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521005
+  },
+  {
+    "current_name": "Consultancy.Organisation & change management services",
+    "category": "Organisation and Change Management Consultancy services",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521005
+  },
+  {
+    "current_name": "Consultancy.Other IT security consultancy services",
+    "category": "IT/IS (Information Security) Consultancy - 'Other' IT/IS consultancy services not listed elsewhere",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521003
+  },
+  {
+    "current_name": "Consultancy.Other procurement consultancy services",
+    "category": "Procurement Consultancy - 'Other' procurement services not listed elsewhere",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521005
+  },
+  {
+    "current_name": "Consultancy.Other professional advice services",
+    "category": "Professional advice services - 'Other' professional advice services not listed elsewhere",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521005
+  },
+  {
+    "current_name": "Consultancy.Seconded in Police and Fire OFFICERS specialist",
+    "category": "Seconded in Police and Fire OFFICERS specialist (NO VAT charged)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "21-11-2018",
+    "end_date": "",
+    "key": 511047
+  },
+  {
+    "current_name": "Consultancy.Seconded in Police and Fire STAFF non-specialist",
+    "category": "Seconded in Police and Fire STAFF non-specialist (VAT charged)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "21-11-2018",
+    "end_date": "",
+    "key": 511047
+  },
+  {
+    "current_name": "Consultancy.Seconded in staff",
+    "category": "Seconded in Staff to HO",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 511047
+  },
+  {
+    "current_name": "Consultancy.Strategic planning services",
+    "category": "Strategic Planning services",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521005
+  },
+  {
+    "current_name": "Contingent Labour.Interim managers",
+    "category": "Interim Managers - contingent labour",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 511083
+  },
+  {
+    "current_name": "Contingent Labour.Specialist contractors",
+    "category": "Specialist Contractors - contingent labour",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 511083
+  },
+  {
+    "current_name": "Contingent Labour.Specialist contractorsBUS REC",
+    "category": "Specialist Contractors - contingent labour assigned to Major Law Enforcement (recharged to third parties 100% BUS REC)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "19-07-2019",
+    "end_date": "",
+    "key": 511083
+  },
+  {
+    "current_name": "Contingent Labour.Temporary IT niche workers",
+    "category": "Temporary IT niche work specialist - contingent labour",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 511083
+  },
+  {
+    "current_name": "Contingent Labour.Temporary finance staffing",
+    "category": "Temporary financial staffing needs - contingent labour",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 511083
+  },
+  {
+    "current_name": "Contingent Labour.Temporary personnel services",
+    "category": "Temporary personnel services - contingent labour",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 511083
+  },
+  {
+    "current_name": "Legal.Adverse compensation costs awarded to third party",
+    "category": "Legal services - Adverse costs awarded to third party (compensation payment)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521019
+  },
+  {
+    "current_name": "Legal.Disbursments paid on behalf of HO",
+    "category": "Legal services - Disbursements (costs paid on behalf of and in the name of HO by supplier)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521017
+  },
+  {
+    "current_name": "Legal.Extradition document FCO",
+    "category": "Extradition Document FCO",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521015
+  },
+  {
+    "current_name": "Legal.Legal services other",
+    "category": "Other' legal services not listed elsewhere (e.g. legal services in relation to criminal matters)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521019
+  },
+  {
+    "current_name": "Legal.Legal services recharged to 3rd party",
+    "category": "Legal recharge - Only where costs are recharged (with VAT charged) onto third parties (inc. OGDs).",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521019
+  },
+  {
+    "current_name": "Legal.Non-criminal legal services for HO",
+    "category": "Non-criminal matters for HO use/where HO is obligated to provision for non-criminal legal services",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521019
+  },
+  {
+    "current_name": "Legal.Parent trademark copyright legal services",
+    "category": "Patent trademark copyright legal services",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521019
+  },
+  {
+    "current_name": "Legal.Property law/legal services HO buildings",
+    "category": "Property law/legal services for HO buildings",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521019
+  },
+  {
+    "current_name": "Business & Commercial Services.Accredited Commercial Secondments",
+    "category": "Staff secondment accredited by Gov. Commercial Development Centre from Gov. Commercial Organisation",
+    "other_names": "",
+    "format": "other",
+    "start_date": "19-07-2019",
+    "end_date": "",
+    "key": 511047
+  },
+  {
+    "current_name": "Business & Commercial Services.Asset disposal/sale services",
+    "category": "Asset disposal services outsourced - excludes contingent labour",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521099
+  },
+  {
+    "current_name": "Business & Commercial Services.DBS Short Term Contract & Agency Staff",
+    "category": "DBS Short Term Contract & Agency Staff",
+    "other_names": "",
+    "format": "other",
+    "start_date": "18-06-2020",
+    "end_date": "",
+    "key": 511075
+  },
+  {
+    "current_name": "Business & Commercial Services.Estates Professional Services",
+    "category": "Architectural, Building Design & Engineering, Civil & Structural Engineering  and Estates Support Services Costs",
+    "other_names": "",
+    "format": "other",
+    "start_date": "09-05-2019",
+    "end_date": "",
+    "key": 521013
+  },
+  {
+    "current_name": "Business & Commercial Services.Fact checking services",
+    "category": "Fact checking services",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521045
+  },
+  {
+    "current_name": "Business & Commercial Services.ICT OUTSOURC & MAINT-SPPRT - IT LICENCES (PFI)",
+    "category": "EXP - PURCHASE OF GOODS-SERV - ICT OUTSOURC & MAINT-SPPRT - IT LICENCES (PFI)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "24-06-2019",
+    "end_date": "",
+    "key": 521122
+  },
+  {
+    "current_name": "Business & Commercial Services.Passport Production - BPO Support Services",
+    "category": "BPO support services",
+    "other_names": "",
+    "format": "other",
+    "start_date": "22-05-2019",
+    "end_date": "",
+    "key": 521461
+  },
+  {
+    "current_name": "Business & Commercial Services.Procurement services",
+    "category": "Procurement (inc. cloud-based) & negotiation services fully outsourced - excludes contingent labour",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521121
+  },
+  {
+    "current_name": "Business and Commercial Services.Disbursements paid for NRM MAAP services",
+    "category": "Disbursements paid by HO to police/LA/NGO for independent multi agency quality assurance of NRM decisions",
+    "other_names": "",
+    "format": "other",
+    "start_date": "05-09-2019",
+    "end_date": "",
+    "key": 511061
+  },
+  {
+    "current_name": "Business process OS Services.Contracted out ICT Services Other",
+    "category": "Business process OS Services.Contracted out ICT Services Other - 20% VAT",
+    "other_names": "",
+    "format": "other",
+    "start_date": "08-05-2019",
+    "end_date": "",
+    "key": 521118
+  },
+  {
+    "current_name": "Business Process OS Services. Audit Services DBS only",
+    "category": "Business and Commercial Services. Quality Audit fees DBS USE ONLY",
+    "other_names": "",
+    "format": "other",
+    "start_date": "21-01-2019",
+    "end_date": "",
+    "key": 521024
+  },
+  {
+    "current_name": "Business Process OS Services.Administrative services",
+    "category": "Administrative services (e.g. scanning services, collection & collation of biometric data services)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 522010
+  },
+  {
+    "current_name": "Business Process OS Services.App Manage B2B Basic DBS ONLY",
+    "category": "Business & Commercial Services Application Management B2B Basic Disclosures DBS USE ONLY",
+    "other_names": "",
+    "format": "other",
+    "start_date": "21-01-2019",
+    "end_date": "",
+    "key": 522092
+  },
+  {
+    "current_name": "Business Process OS Services.App Manage Basic DBS ONLY",
+    "category": "Business & Commercial Services Application Management Basic Disclosures DBS USE ONLY",
+    "other_names": "",
+    "format": "other",
+    "start_date": "21-01-2019",
+    "end_date": "",
+    "key": 522096
+  },
+  {
+    "current_name": "Business Process OS Services.App Manage C2B Basic DBS ONLY",
+    "category": "Business & Commercial Services Application Management C2B Basic Disclosures DBS USE ONLY",
+    "other_names": "",
+    "format": "other",
+    "start_date": "21-01-2019",
+    "end_date": "",
+    "key": 522093
+  },
+  {
+    "current_name": "Business Process OS Services.App Manage Enhanced DBS ONLY",
+    "category": "Business & Commercial Services. Application Management Enhanced Disclosures DBS USE ONLY",
+    "other_names": "",
+    "format": "other",
+    "start_date": "21-01-2019",
+    "end_date": "",
+    "key": 522091
+  },
+  {
+    "current_name": "Business Process OS Services.App Manage Standard DBS ONLY",
+    "category": "Business & Commercial Services. Application Management Standard Disclosures DBS USE ONLY",
+    "other_names": "",
+    "format": "other",
+    "start_date": "21-01-2019",
+    "end_date": "",
+    "key": 522094
+  },
+  {
+    "current_name": "Business Process OS Services.App Manage Update DBS ONLY",
+    "category": "Business & Commercial Services. Application Management Update Service DBS USE ONLY",
+    "other_names": "",
+    "format": "other",
+    "start_date": "21-01-2019",
+    "end_date": "",
+    "key": 522095
+  },
+  {
+    "current_name": "Business Process OS Services.Call/contact centre services",
+    "category": "Call/Contact centre services fully outsourced - running a contact centre in its entirety",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521128
+  },
+  {
+    "current_name": "Business Process OS Services.Cash in transit services",
+    "category": "Cash in transit services fully outsourced",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 522063
+  },
+  {
+    "current_name": "Business Process OS Services.Contact Centre DBS",
+    "category": "Contact Centre DBS 3rd Party Supplier",
+    "other_names": "",
+    "format": "other",
+    "start_date": "18-06-2020",
+    "end_date": "",
+    "key": 522080
+  },
+  {
+    "current_name": "Business Process OS Services.Debt collection services",
+    "category": "Debt collection services fully outsourced",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 522010
+  },
+  {
+    "current_name": "Business Process OS Services.Export intelligence services",
+    "category": "Export intelligence services (not purchase of data outright)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 522010
+  },
+  {
+    "current_name": "Business Process OS Services.Forensic testing services",
+    "category": "Forensic testing services fully outsourced used by HO (including managed laboratory services)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 522010
+  },
+  {
+    "current_name": "Business Process OS Services.Jewellery examination UK Supplier (NO VAT)",
+    "category": "Non-VAT registered UK based supplier jewellery examination services",
+    "other_names": "",
+    "format": "other",
+    "start_date": "09-05-2019",
+    "end_date": "",
+    "key": 522071
+  },
+  {
+    "current_name": "Business Process OS Services.One HMG Platform costs",
+    "category": "One HMG Platform costs i.e. admin, back office, systems etc. (no VAT charged)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "22-05-2019",
+    "end_date": "",
+    "key": 591012
+  },
+  {
+    "current_name": "Business Process OS Services.Other BP services",
+    "category": "Business Process Outsourcing - 'Other' Business Process Outsourcing services not listed elsewhere",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 522010
+  },
+  {
+    "current_name": "Business Process OS Services.Passport Prod. Overseas Local Services (Non Rec VAT)",
+    "category": "Passport production overseas local services, where VAT is NOT recoverable e.g. interview and DNA facilitation",
+    "other_names": "",
+    "format": "other",
+    "start_date": "24-10-2019",
+    "end_date": "",
+    "key": 522057
+  },
+  {
+    "current_name": "Business Process OS Services.Passport Prod. Overseas Local Services (Rec VAT)",
+    "category": "Passport production overseas local services, where VAT is recoverable",
+    "other_names": "",
+    "format": "other",
+    "start_date": "19-07-2019",
+    "end_date": "",
+    "key": 522057
+  },
+  {
+    "current_name": "Business Process OS Services.Passport Production - Overseas Local Services",
+    "category": "Overseas Local Services",
+    "other_names": "",
+    "format": "other",
+    "start_date": "22-05-2019",
+    "end_date": "",
+    "key": 522057
+  },
+  {
+    "current_name": "Business Process OS Services.Passport administration related services",
+    "category": "Overseas passport administration services (no VAT charged)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "22-05-2019",
+    "end_date": "",
+    "key": 511066
+  },
+  {
+    "current_name": "Business Process OS Services.Personnel recruitment services",
+    "category": "Personnel recruitment services fully outsourced (excluding Advertising slot purchases)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521034
+  },
+  {
+    "current_name": "Business Process OS Services.SSCL accounting & invoicing",
+    "category": "Shared Services Centre Limited (SSCL) services (i.e. accounting and transactional services)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521811
+  },
+  {
+    "current_name": "Business Process OS.Visa Application Services Contact centres - recoverable VAT",
+    "category": "Purchase of goods and VAT recoverable contact centre services - Visa services in Visa Application Centres (VAC’s) overseas",
+    "other_names": "",
+    "format": "other",
+    "start_date": "09-05-2019",
+    "end_date": "",
+    "key": 522057
+  },
+  {
+    "current_name": "Business Process OS.Visa Application Services Video interviewing, other non-recoverable VAT svcs",
+    "category": "Purchase of goods and VAT non-recoverable contact centre servies - Visa services in Visa Application Centres (VAC’s) overseas  - (Interview facilitation)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "09-05-2019",
+    "end_date": "",
+    "key": 522057
+  },
+  {
+    "current_name": "Business process OS Services.Contracted out Freight searching service Overseas supplier",
+    "category": "Business process Outsourcing.Contracted out Freight searching service Overseas supplier",
+    "other_names": "",
+    "format": "other",
+    "start_date": "22-03-2019",
+    "end_date": "",
+    "key": 521118
+  },
+  {
+    "current_name": "Business process OS Services.Contracted out Freight searching service UK supplier",
+    "category": "Business process Outsourcing.Contracted out Freight searching service UK supplier",
+    "other_names": "",
+    "format": "other",
+    "start_date": "22-03-2019",
+    "end_date": "",
+    "key": 521118
+  },
+  {
+    "current_name": "Financial.Accounting & external auditing outsourced services",
+    "category": "Accounting & auditing - fully outsourced external audit services",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521031
+  },
+  {
+    "current_name": "Financial.Accounting & transactional services (e.g. SSCL)",
+    "category": "Accounting & transactional fully outsourced services (e.g. SSCL)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521811
+  },
+  {
+    "current_name": "Financial.Banking and investment services",
+    "category": "Banking & investment services",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 522012
+  },
+  {
+    "current_name": "Financial.Building Insurance services",
+    "category": "Building insurance services for HO/DBS buildings",
+    "other_names": "",
+    "format": "other",
+    "start_date": "11-04-2019",
+    "end_date": "",
+    "key": 521079
+  },
+  {
+    "current_name": "Financial.Estate Management Professional advice Services",
+    "category": "Estate Management Services provided by professional adviser",
+    "other_names": "",
+    "format": "other",
+    "start_date": "22-05-2019",
+    "end_date": "",
+    "key": 521118
+  },
+  {
+    "current_name": "Financial.Grant administration services (VAT charged)",
+    "category": "Outsourced services of paying grants, monitoring grant progress, evaluating grant recipients. VAT registered supplier, and VAT charged.",
+    "other_names": "",
+    "format": "other",
+    "start_date": "21-01-2019",
+    "end_date": "",
+    "key": 522010
+  },
+  {
+    "current_name": "Financial.HO pension fund administration services outsourced",
+    "category": "Pension funds - HO staff (and all related Admin services) including Actuary Services fully outsourced",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521024
+  },
+  {
+    "current_name": "Financial.Immigration Health Surcharge payment handling",
+    "category": "Charges incurred for payment handling services",
+    "other_names": "",
+    "format": "other",
+    "start_date": "29-04-2019",
+    "end_date": "",
+    "key": 521118
+  },
+  {
+    "current_name": "Financial.Immigration Health Surcharge portal hosting",
+    "category": "Charges incurred for services to maintain a Portal which manages Immigration Health Surcharge applications.",
+    "other_names": "",
+    "format": "other",
+    "start_date": "29-04-2019",
+    "end_date": "",
+    "key": 522057
+  },
+  {
+    "current_name": "Financial.Insurance services",
+    "category": "Insurance services",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 522069
+  },
+  {
+    "current_name": "Financial.Internal audit services outsourced",
+    "category": "Accounting & auditing - fully outsourced internal audit services (e.g. GIAA)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521030
+  },
+  {
+    "current_name": "Financial.Life & health & accident insurance services",
+    "category": "Life & health & accident Insurance servies",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521031
+  },
+  {
+    "current_name": "Financial.National Audit services (no VAT charged)",
+    "category": "National Audit Office services where no VAT has been charged on the invoice",
+    "other_names": "",
+    "format": "other",
+    "start_date": "11-03-2019",
+    "end_date": "",
+    "key": 521031
+  },
+  {
+    "current_name": "Financial.Tax administration services outsourced",
+    "category": "Tax administration fully outsourced services",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 591008
+  },
+  {
+    "current_name": "Financial.Tax advice services outsourced",
+    "category": "Tax advice services fully outsourced",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521005
+  },
+  {
+    "current_name": "Financial.Vehicle insurance services",
+    "category": "Vehicle Insurance",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 522009
+  },
+  {
+    "current_name": "Security.ACRO certificates purchases (NO VAT)",
+    "category": "Purchases of Criminal Record check services from police (no VAT charged)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "11-04-2019",
+    "end_date": "",
+    "key": 591012
+  },
+  {
+    "current_name": "Interpretation and Translation.Interpretation & translation",
+    "category": "Interpretation and translation fully outsourced services",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521020
+  },
+  {
+    "current_name": "Interpretation and Translation.Interpreters (no VAT charged)",
+    "category": "Interpreters services - supplier not VAT registered",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521020
+  },
+  {
+    "current_name": "Interpretation and Translation.Written translation of docs",
+    "category": "Written translation services of documents",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521020
+  },
+  {
+    "current_name": "Legal.Disbursements paid on behalf of HO (VAT Charged)",
+    "category": "Disbursements paid on behalf of HO (VAT charged)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "19-07-2019",
+    "end_date": "",
+    "key": 521017
+  },
+  {
+    "current_name": "Legal.Legal services DBS Legal Appeal",
+    "category": "DBS Legal appeal",
+    "other_names": "",
+    "format": "other",
+    "start_date": "24-06-2019",
+    "end_date": "",
+    "key": 521026
+  },
+  {
+    "current_name": "Market Research.Market research services",
+    "category": "Market research services",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521052
+  },
+  {
+    "current_name": "Market Research.Marketing analysis services",
+    "category": "Marketing analysis services",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521045
+  },
+  {
+    "current_name": "Research.Accelerated Capability Environment_1",
+    "category": "Accelerated Capability Environment Recoverable Commissions",
+    "other_names": "",
+    "format": "other",
+    "start_date": "17-06-2019",
+    "end_date": "",
+    "key": 591100
+  },
+  {
+    "current_name": "Research.Accelerated Capability Environment_2",
+    "category": "Accelerated Capability Environment Non Recoverable Commissions",
+    "other_names": "",
+    "format": "other",
+    "start_date": "17-06-2019",
+    "end_date": "",
+    "key": 591100
+  },
+  {
+    "current_name": "Research.Accelerated Capability Environment_3",
+    "category": "Accelerated Capability Environment Recoverable Commissions",
+    "other_names": "",
+    "format": "other",
+    "start_date": "17-06-2019",
+    "end_date": "",
+    "key": 522018
+  },
+  {
+    "current_name": "Research.Accelerated Capability Environment_4",
+    "category": "Accelerated Capability Environment Non Recoverable Commissions",
+    "other_names": "",
+    "format": "other",
+    "start_date": "17-06-2019",
+    "end_date": "",
+    "key": 522018
+  },
+  {
+    "current_name": "Research.Medical & Social survey services",
+    "category": "Surveys - Medical & social survey services",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521050
+  },
+  {
+    "current_name": "Research.Research services other",
+    "category": "Research Services - 'Other' research services not listed elsewhere",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 522018
+  },
+  {
+    "current_name": "Research.Research services recharged to 3rd parties",
+    "category": "Research recharge - Only where costs are recharged (with VAT charged) to third party (inc. OGDs).",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 522018
+  },
+  {
+    "current_name": "Research.Survey services other",
+    "category": "Surveys - 'Other' survey services not listed elsewhere",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521050
+  },
+  {
+    "current_name": "Research.Svcs of data research & secondary data analysis",
+    "category": "Research including both primary data research & secondary data analysis (contact VATTEAM before use)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 522018
+  },
+  {
+    "current_name": "Research.Technology research",
+    "category": "Technology Research",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 522018
+  },
+  {
+    "current_name": "Science & Environ Research.Research services other",
+    "category": "Science & environment research not listed elsewhere",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 522018
+  },
+  {
+    "current_name": "Social and Economic Research.Social research services other",
+    "category": "Social Research - other - 'Other' services not listed elsewhere",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 522018
+  },
+  {
+    "current_name": "Social and Economic Research.Social survey services",
+    "category": "Social Research - social surveys fully outsourced services",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 522018
+  },
+  {
+    "current_name": "Business Travel.Commercial airplance Flight Removals travel tickets (PER only)",
+    "category": "Commercial airplance Flight Removals travel tickets (PER only)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "19-07-2019",
+    "end_date": "",
+    "key": 521422
+  },
+  {
+    "current_name": "Business Travel.Commercial airplane travel tickets",
+    "category": "Commercial airplane travel tickets",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521135
+  },
+  {
+    "current_name": "Business Travel.One-off Taxicab services",
+    "category": "Taxicab services where GD holds NO contract with supplier (one-off taxicab services)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521139
+  },
+  {
+    "current_name": "Business Travel.Other business travel services",
+    "category": "Business Travel - 'Other' business travel/accommodation services not listed elsewhere",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521148
+  },
+  {
+    "current_name": "Business Travel.Passenger bus public transport tickets",
+    "category": "Passenger bus transportation public transport (0% VAT)",
+    "other_names": "",
+    "format": "other",
+    "start_date": "11-03-2019",
+    "end_date": "",
+    "key": 521159
+  },
+  {
+    "current_name": "Business Travel.Passenger railway tickets",
+    "category": "Passenger railway transportation",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521137
+  },
+  {
+    "current_name": "Business Travel.Taxicab services where HO has contract",
+    "category": "Taxicab services where GD holds contract with supplier - only for HO staff",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521139
+  },
+  {
+    "current_name": "Business Travel Accommodation.Hotels, motels, inns",
+    "category": "Hotels & motels & inns",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 521142
+  },
+  {
+    "current_name": "Waste Management Services.Waste management services",
+    "category": "Waste Management services for HO use in UK",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 522240
+  },
+  {
+    "current_name": "World Relief Services.Refugee resettlement services",
+    "category": "Refugee resettlements repatriation services",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": 522035
+  },
+  {
+    "current_name": "Migrated POs",
+    "category": "Migrated POs",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": ""
+  },
+  {
+    "current_name": "Migrated POs Bus Recoverable",
+    "category": "Migrated POs Bus Recoverable",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": ""
+  },
+  {
+    "current_name": "Migrated POs Cos Recoverable",
+    "category": "Migrated POs Cos Recoverable",
+    "other_names": "",
+    "format": "other",
+    "start_date": "15-09-2018",
+    "end_date": "",
+    "key": ""
+  }
+]
